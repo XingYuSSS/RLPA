@@ -2,7 +2,7 @@
   <h1>Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment</h1>
 </div>
 
-This repository contains code for the NIPS 2025 paper [Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment](https://arxiv.org/abs/2505.15456)
+This repository contains code for the NeurIPS 2025 paper [Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment](https://arxiv.org/abs/2505.15456)
 
 This repository is an extension and modification of [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF), implementing multi-turn online reinforcement learning. Special thanks to the OpenRLHF team for their excellent work!
 
